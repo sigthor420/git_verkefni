@@ -35,3 +35,6 @@
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 		þegar maður er með margar möppur
 
+9.	Hver fann upp GIT?
+		Linus Torvalds
+
