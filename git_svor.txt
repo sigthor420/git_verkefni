@@ -7,36 +7,3 @@
 	pwd - prentar directory-ið sem þú ert að vinna í
 	mkdir - býr til directory
 	
-2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone - afritar directory og 
-	git log - sýnir loggið á git directory-inu
-	git status - sýnir "working tree status"
-	git diff - sýnir breytingar á milli commit-a
-	git checkout - skiptir um branch eða endurheimtar "working tree" skrár
-
-3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff - sýnir muninn á því sem hefur breyst
-	b) git diff --staged - sýnir það sem þú hefur gert
-	c) git diff commit1 commit2 - sýnir muninn á því sem þú gerðir í möppu1 við möppu2
-
-4. 	Hvað er útgáfustýring (e.version control)? 
-		sýnir hvað forritið hefur breyst á milli útgáfna
-
-5.	Hverjir eru helstu kostir við að nota GIT?
-		margir geta unnið að sama verkefni saman
-
-6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
-		eins oft og maður þarf
-
-7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
-		working directory er þar sem þú ert að vinna
-		Staging area er file sem inniheldur upplýsingar um það sem fer i næsta commit
-
-8.	Hvenær er sniðugt að nota greinar (branches)? 
-		þegar maður er með margar möppur
-
-9.	Hver fann upp GIT?
-		Linus Torvalds
-
-10.	Hvar er GIT helst notað?
-		í open-source verkefnum
