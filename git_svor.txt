@@ -14,3 +14,8 @@
 	git diff - sýnir breytingar á milli commit-a
 	git checkout - skiptir um branch eða endurheimtar "working tree" skrár
 
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff - sýnir muninn á því sem hefur breyst
+	b) git diff --staged - sýnir það sem þú hefur gert
+	c) git diff commit1 commit2 - sýnir muninn á því sem þú gerðir í möppu1 við möppu2
+
