@@ -19,3 +19,9 @@
 	b) git diff --staged - sýnir það sem þú hefur gert
 	c) git diff commit1 commit2 - sýnir muninn á því sem þú gerðir í möppu1 við möppu2
 
+4. 	Hvað er útgáfustýring (e.version control)? 
+		sýnir hvað forritið hefur breyst á milli útgáfna
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+		margir geta unnið að sama verkefni saman
+
