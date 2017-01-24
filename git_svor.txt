@@ -38,3 +38,5 @@
 9.	Hver fann upp GIT?
 		Linus Torvalds
 
+10.	Hvar er GIT helst notað?
+		í open-source verkefnum
